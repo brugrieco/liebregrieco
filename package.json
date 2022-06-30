@@ -5,10 +5,7 @@
   "scripts": {
     "start": "node app.js"
   },
-  "keywords": [
-    "example",
-    "heroku"
-  ],
+  "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
